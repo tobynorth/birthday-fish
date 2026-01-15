@@ -1,0 +1,7 @@
+This image is a working Piet program adapted from [this stock photo](https://imgur.com/birthday-cake-cat-53rOWzP) using [Pietron](https://github.com/dnek/pietron).
+
+# Usage
+
+1. Pick a Piet interpreter. There are several available online (https://piet.bubbler.blue/ is a decent one), or you can download one locally.
+2. Run birthday_fish.png in the interpreter. It reads the name of your favorite cat from STDIN.
+3. A **secret message** from your favorite cat is printed to STDOUT.
